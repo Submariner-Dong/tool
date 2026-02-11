@@ -1,0 +1,471 @@
+2026-02-11 15:56:00,228 - INFO - ====== WebDriver manager ======
+2026-02-11 15:56:00,229 - INFO - ====== WebDriver manager ======
+2026-02-11 15:56:00,229 - INFO - 启动 2 个工作线程
+2026-02-11 15:56:01,202 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:56:01,202 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:56:01,919 - ERROR - Worker_50_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 15:56:01,926 - ERROR - Worker_650_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 15:56:04,063 - INFO - ====== WebDriver manager ======
+2026-02-11 15:56:04,063 - INFO - ====== WebDriver manager ======
+2026-02-11 15:56:04,969 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:56:04,983 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:56:05,654 - ERROR - Worker_50_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 15:56:05,665 - ERROR - Worker_650_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 15:56:07,661 - INFO - ====== WebDriver manager ======
+2026-02-11 15:56:07,671 - INFO - ====== WebDriver manager ======
+2026-02-11 15:56:08,543 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:56:08,561 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:56:08,935 - INFO - 正在停止问卷填写...
+2026-02-11 15:56:09,234 - INFO - 问卷填写任务完成
+2026-02-11 15:56:09,252 - ERROR - Worker_650_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 15:56:09,261 - ERROR - Worker_50_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 15:56:09,266 - CRITICAL - 失败次数过多，程序将强制停止，请检查代码是否正确
+2026-02-11 15:56:21,776 - INFO - ====== WebDriver manager ======
+2026-02-11 15:56:21,776 - INFO - ====== WebDriver manager ======
+2026-02-11 15:56:21,777 - INFO - 启动 2 个工作线程
+2026-02-11 15:56:22,722 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:56:22,722 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:56:23,411 - ERROR - Worker_650_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 15:56:23,431 - ERROR - Worker_50_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 15:56:25,417 - INFO - ====== WebDriver manager ======
+2026-02-11 15:56:25,438 - INFO - ====== WebDriver manager ======
+2026-02-11 15:56:26,287 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:56:26,314 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:56:26,973 - ERROR - Worker_650_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 15:56:26,993 - ERROR - Worker_50_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 15:56:28,980 - INFO - ====== WebDriver manager ======
+2026-02-11 15:56:28,999 - INFO - ====== WebDriver manager ======
+2026-02-11 15:56:29,877 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:56:29,877 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:56:30,562 - ERROR - Worker_50_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 15:56:30,572 - ERROR - Worker_650_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 15:56:30,580 - CRITICAL - 失败次数过多，程序将强制停止，请检查代码是否正确
+2026-02-11 15:56:30,782 - INFO - 问卷填写任务完成
+2026-02-11 15:57:51,706 - INFO - ====== WebDriver manager ======
+2026-02-11 15:57:51,708 - INFO - ====== WebDriver manager ======
+2026-02-11 15:57:51,708 - INFO - 启动 2 个工作线程
+2026-02-11 15:57:52,637 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:57:52,637 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:57:53,543 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:57:53,732 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:57:54,843 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:57:55,172 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:57:58,076 - INFO - WebDriver version 144.0.7559.133 selected
+2026-02-11 15:57:58,082 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-11 15:57:58,083 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-11 15:57:58,914 - INFO - WebDriver version 144.0.7559.133 selected
+2026-02-11 15:57:58,921 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-11 15:57:58,921 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-11 15:57:59,836 - INFO - Driver downloading response is 200
+2026-02-11 15:58:00,668 - INFO - Driver downloading response is 200
+2026-02-11 15:58:03,134 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:58:03,154 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:58:04,119 - INFO - Driver has been saved in cache [C:\Users\26290\.wdm\drivers\chromedriver\win64\144.0.7559.133]
+2026-02-11 15:58:04,927 - INFO - Driver has been saved in cache [C:\Users\26290\.wdm\drivers\chromedriver\win64\144.0.7559.133]
+2026-02-11 15:58:14,351 - INFO - Worker_650_50: 已填写1份 - 失败0次 - 跳过0次
+2026-02-11 15:58:14,351 - INFO - Worker_50_50: 已填写2份 - 失败0次 - 跳过0次
+2026-02-11 15:58:16,514 - INFO - ====== WebDriver manager ======
+2026-02-11 15:58:16,516 - INFO - ====== WebDriver manager ======
+2026-02-11 15:58:17,428 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:58:17,428 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:58:18,512 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:58:19,615 - INFO - Driver [C:\Users\26290\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver.exe] found in cache
+2026-02-11 15:58:20,820 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:58:21,851 - INFO - Driver [C:\Users\26290\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver.exe] found in cache
+2026-02-11 15:58:28,873 - INFO - Worker_650_50: 已填写3份 - 失败0次 - 跳过0次
+2026-02-11 15:58:30,856 - INFO - Worker_50_50: 已填写4份 - 失败0次 - 跳过0次
+2026-02-11 15:58:31,037 - INFO - ====== WebDriver manager ======
+2026-02-11 15:58:31,840 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:58:33,027 - INFO - ====== WebDriver manager ======
+2026-02-11 15:58:33,860 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:58:34,351 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:58:35,221 - INFO - Driver [C:\Users\26290\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver.exe] found in cache
+2026-02-11 15:58:36,049 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 15:58:36,940 - INFO - Driver [C:\Users\26290\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver.exe] found in cache
+2026-02-11 15:58:44,573 - INFO - Worker_650_50: 已填写5份 - 失败0次 - 跳过0次
+2026-02-11 15:58:45,437 - INFO - Worker_50_50: 已填写6份 - 失败0次 - 跳过0次
+2026-02-11 15:58:45,731 - INFO - 问卷填写任务完成
+2026-02-11 22:08:36,492 - INFO - 启动 2 个工作线程
+2026-02-11 22:08:36,493 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:08:36,494 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:08:38,513 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:08:38,514 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:08:40,523 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:08:40,523 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:08:40,529 - CRITICAL - 失败次数过多，程序将强制停止，请检查代码是否正确
+2026-02-11 22:08:41,495 - INFO - 问卷填写任务完成
+2026-02-11 22:12:29,722 - INFO - 启动 2 个工作线程
+2026-02-11 22:12:29,722 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:12:29,723 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:12:31,729 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:12:31,730 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:12:33,739 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:12:33,740 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:12:33,744 - CRITICAL - 失败次数过多，程序将强制停止，请检查代码是否正确
+2026-02-11 22:12:34,725 - INFO - 问卷填写任务完成
+2026-02-11 22:13:26,326 - INFO - ====== WebDriver manager ======
+2026-02-11 22:13:26,326 - INFO - ====== WebDriver manager ======
+2026-02-11 22:13:26,326 - INFO - 启动 2 个工作线程
+2026-02-11 22:13:27,355 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:13:27,355 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:13:28,267 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:13:28,294 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:13:29,183 - INFO - Driver [C:\Users\26290\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver.exe] found in cache
+2026-02-11 22:13:29,504 - INFO - Driver [C:\Users\26290\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver.exe] found in cache
+2026-02-11 22:13:38,450 - INFO - Worker_650_50: 已填写1份 - 失败0次 - 跳过0次
+2026-02-11 22:13:38,495 - INFO - Worker_50_50: 已填写2份 - 失败0次 - 跳过0次
+2026-02-11 22:13:50,411 - INFO - Worker_50_50: 已填写3份 - 失败0次 - 跳过0次
+2026-02-11 22:13:50,840 - INFO - Worker_650_50: 已填写4份 - 失败0次 - 跳过0次
+2026-02-11 22:14:00,171 - INFO - Worker_50_50: 已填写5份 - 失败0次 - 跳过0次
+2026-02-11 22:14:00,479 - INFO - Worker_650_50: 已填写6份 - 失败0次 - 跳过0次
+2026-02-11 22:14:01,341 - INFO - 问卷填写任务完成
+2026-02-11 22:24:23,417 - INFO - 启动 2 个工作线程
+2026-02-11 22:24:23,418 - ERROR - Worker_50_50: 问卷处理失败 - cannot import name 'get_browser_version_from_os' from 'webdriver_manager.core.utils' (E:\Users\Public\Environment\python\Python312\Lib\site-packages\webdriver_manager\core\utils.py)
+2026-02-11 22:24:23,419 - ERROR - Worker_650_50: 问卷处理失败 - cannot import name 'get_browser_version_from_os' from 'webdriver_manager.core.utils' (E:\Users\Public\Environment\python\Python312\Lib\site-packages\webdriver_manager\core\utils.py)
+2026-02-11 22:24:25,423 - ERROR - Worker_50_50: 问卷处理失败 - cannot import name 'get_browser_version_from_os' from 'webdriver_manager.core.utils' (E:\Users\Public\Environment\python\Python312\Lib\site-packages\webdriver_manager\core\utils.py)
+2026-02-11 22:24:25,425 - ERROR - Worker_650_50: 问卷处理失败 - cannot import name 'get_browser_version_from_os' from 'webdriver_manager.core.utils' (E:\Users\Public\Environment\python\Python312\Lib\site-packages\webdriver_manager\core\utils.py)
+2026-02-11 22:24:27,429 - ERROR - Worker_50_50: 问卷处理失败 - cannot import name 'get_browser_version_from_os' from 'webdriver_manager.core.utils' (E:\Users\Public\Environment\python\Python312\Lib\site-packages\webdriver_manager\core\utils.py)
+2026-02-11 22:24:27,432 - ERROR - Worker_650_50: 问卷处理失败 - cannot import name 'get_browser_version_from_os' from 'webdriver_manager.core.utils' (E:\Users\Public\Environment\python\Python312\Lib\site-packages\webdriver_manager\core\utils.py)
+2026-02-11 22:24:27,434 - CRITICAL - 失败次数过多，程序将强制停止，请检查代码是否正确
+2026-02-11 22:24:28,422 - INFO - 问卷填写任务完成
+2026-02-11 22:29:35,971 - INFO - 启动 2 个工作线程
+2026-02-11 22:29:35,971 - INFO - ====== WebDriver manager ======
+2026-02-11 22:29:35,971 - INFO - ====== WebDriver manager ======
+2026-02-11 22:29:36,989 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:29:37,019 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:29:37,512 - ERROR - Worker_650_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 22:29:37,513 - ERROR - Worker_50_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 22:29:39,525 - INFO - ====== WebDriver manager ======
+2026-02-11 22:29:39,526 - INFO - ====== WebDriver manager ======
+2026-02-11 22:29:40,467 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:29:40,467 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:29:40,962 - ERROR - Worker_50_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 22:29:40,968 - ERROR - Worker_650_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 22:29:42,968 - INFO - ====== WebDriver manager ======
+2026-02-11 22:29:42,973 - INFO - ====== WebDriver manager ======
+2026-02-11 22:29:43,880 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:29:43,881 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:29:44,386 - ERROR - Worker_50_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 22:29:44,387 - ERROR - Worker_650_50: 问卷处理失败 - Could not reach host. Are you offline?
+2026-02-11 22:29:44,396 - CRITICAL - 失败次数过多，程序将强制停止，请检查代码是否正确
+2026-02-11 22:29:44,976 - INFO - 问卷填写任务完成
+2026-02-11 22:39:58,692 - INFO - 启动 2 个工作线程
+2026-02-11 22:39:58,692 - INFO - ====== WebDriver manager ======
+2026-02-11 22:39:58,693 - INFO - ====== WebDriver manager ======
+2026-02-11 22:39:59,688 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:39:59,688 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:40:00,725 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2026-02-11 22:40:00,725 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2026-02-11 22:40:04,273 - ERROR - Worker_50_50: 问卷处理失败 - Message: session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 144.0.7559.133 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff65ed5e925+77845]
+	GetHandleVerifier [0x0x7ff65ed5e980+77936]
+	(No symbol) [0x0x7ff65eb19cda]
+	(No symbol) [0x0x7ff65eb5e53f]
+	(No symbol) [0x0x7ff65eb5d58b]
+	(No symbol) [0x0x7ff65eb56d7d]
+	(No symbol) [0x0x7ff65eb529e5]
+	(No symbol) [0x0x7ff65eba62ce]
+	(No symbol) [0x0x7ff65eba5a60]
+	(No symbol) [0x0x7ff65eb986a3]
+	(No symbol) [0x0x7ff65eb61791]
+	(No symbol) [0x0x7ff65eb62523]
+	GetHandleVerifier [0x0x7ff65f03683d+3059501]
+	GetHandleVerifier [0x0x7ff65f030bfd+3035885]
+	GetHandleVerifier [0x0x7ff65f0503f0+3164896]
+	GetHandleVerifier [0x0x7ff65ed78c2e+185118]
+	GetHandleVerifier [0x0x7ff65ed8053f+216111]
+	GetHandleVerifier [0x0x7ff65ed672d4+113092]
+	GetHandleVerifier [0x0x7ff65ed67489+113529]
+	GetHandleVerifier [0x0x7ff65ed4e288+10616]
+	BaseThreadInitThunk [0x0x7ffb4d61e8d7+23]
+	RtlUserThreadStart [0x0x7ffb4ec2c48c+44]
+
+2026-02-11 22:40:04,274 - ERROR - Worker_650_50: 问卷处理失败 - Message: session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 144.0.7559.133 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff65ed5e925+77845]
+	GetHandleVerifier [0x0x7ff65ed5e980+77936]
+	(No symbol) [0x0x7ff65eb19cda]
+	(No symbol) [0x0x7ff65eb5e53f]
+	(No symbol) [0x0x7ff65eb5d58b]
+	(No symbol) [0x0x7ff65eb56d7d]
+	(No symbol) [0x0x7ff65eb529e5]
+	(No symbol) [0x0x7ff65eba62ce]
+	(No symbol) [0x0x7ff65eba5a60]
+	(No symbol) [0x0x7ff65eb986a3]
+	(No symbol) [0x0x7ff65eb61791]
+	(No symbol) [0x0x7ff65eb62523]
+	GetHandleVerifier [0x0x7ff65f03683d+3059501]
+	GetHandleVerifier [0x0x7ff65f030bfd+3035885]
+	GetHandleVerifier [0x0x7ff65f0503f0+3164896]
+	GetHandleVerifier [0x0x7ff65ed78c2e+185118]
+	GetHandleVerifier [0x0x7ff65ed8053f+216111]
+	GetHandleVerifier [0x0x7ff65ed672d4+113092]
+	GetHandleVerifier [0x0x7ff65ed67489+113529]
+	GetHandleVerifier [0x0x7ff65ed4e288+10616]
+	BaseThreadInitThunk [0x0x7ffb4d61e8d7+23]
+	RtlUserThreadStart [0x0x7ffb4ec2c48c+44]
+
+2026-02-11 22:40:06,494 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2026-02-11 22:40:07,515 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2026-02-11 22:40:09,180 - ERROR - Worker_50_50: 问卷处理失败 - Message: session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 144.0.7559.133 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff65ed5e925+77845]
+	GetHandleVerifier [0x0x7ff65ed5e980+77936]
+	(No symbol) [0x0x7ff65eb19cda]
+	(No symbol) [0x0x7ff65eb5e53f]
+	(No symbol) [0x0x7ff65eb5d58b]
+	(No symbol) [0x0x7ff65eb56d7d]
+	(No symbol) [0x0x7ff65eb529e5]
+	(No symbol) [0x0x7ff65eba62ce]
+	(No symbol) [0x0x7ff65eba5a60]
+	(No symbol) [0x0x7ff65eb986a3]
+	(No symbol) [0x0x7ff65eb61791]
+	(No symbol) [0x0x7ff65eb62523]
+	GetHandleVerifier [0x0x7ff65f03683d+3059501]
+	GetHandleVerifier [0x0x7ff65f030bfd+3035885]
+	GetHandleVerifier [0x0x7ff65f0503f0+3164896]
+	GetHandleVerifier [0x0x7ff65ed78c2e+185118]
+	GetHandleVerifier [0x0x7ff65ed8053f+216111]
+	GetHandleVerifier [0x0x7ff65ed672d4+113092]
+	GetHandleVerifier [0x0x7ff65ed67489+113529]
+	GetHandleVerifier [0x0x7ff65ed4e288+10616]
+	BaseThreadInitThunk [0x0x7ffb4d61e8d7+23]
+	RtlUserThreadStart [0x0x7ffb4ec2c48c+44]
+
+2026-02-11 22:40:10,174 - ERROR - Worker_650_50: 问卷处理失败 - Message: session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 144.0.7559.133 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff65ed5e925+77845]
+	GetHandleVerifier [0x0x7ff65ed5e980+77936]
+	(No symbol) [0x0x7ff65eb19cda]
+	(No symbol) [0x0x7ff65eb5e53f]
+	(No symbol) [0x0x7ff65eb5d58b]
+	(No symbol) [0x0x7ff65eb56d7d]
+	(No symbol) [0x0x7ff65eb529e5]
+	(No symbol) [0x0x7ff65eba62ce]
+	(No symbol) [0x0x7ff65eba5a60]
+	(No symbol) [0x0x7ff65eb986a3]
+	(No symbol) [0x0x7ff65eb61791]
+	(No symbol) [0x0x7ff65eb62523]
+	GetHandleVerifier [0x0x7ff65f03683d+3059501]
+	GetHandleVerifier [0x0x7ff65f030bfd+3035885]
+	GetHandleVerifier [0x0x7ff65f0503f0+3164896]
+	GetHandleVerifier [0x0x7ff65ed78c2e+185118]
+	GetHandleVerifier [0x0x7ff65ed8053f+216111]
+	GetHandleVerifier [0x0x7ff65ed672d4+113092]
+	GetHandleVerifier [0x0x7ff65ed67489+113529]
+	GetHandleVerifier [0x0x7ff65ed4e288+10616]
+	BaseThreadInitThunk [0x0x7ffb4d61e8d7+23]
+	RtlUserThreadStart [0x0x7ffb4ec2c48c+44]
+
+2026-02-11 22:40:11,379 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2026-02-11 22:40:12,370 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2026-02-11 22:40:14,112 - ERROR - Worker_50_50: 问卷处理失败 - Message: session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 144.0.7559.133 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff65ed5e925+77845]
+	GetHandleVerifier [0x0x7ff65ed5e980+77936]
+	(No symbol) [0x0x7ff65eb19cda]
+	(No symbol) [0x0x7ff65eb5e53f]
+	(No symbol) [0x0x7ff65eb5d58b]
+	(No symbol) [0x0x7ff65eb56d7d]
+	(No symbol) [0x0x7ff65eb529e5]
+	(No symbol) [0x0x7ff65eba62ce]
+	(No symbol) [0x0x7ff65eba5a60]
+	(No symbol) [0x0x7ff65eb986a3]
+	(No symbol) [0x0x7ff65eb61791]
+	(No symbol) [0x0x7ff65eb62523]
+	GetHandleVerifier [0x0x7ff65f03683d+3059501]
+	GetHandleVerifier [0x0x7ff65f030bfd+3035885]
+	GetHandleVerifier [0x0x7ff65f0503f0+3164896]
+	GetHandleVerifier [0x0x7ff65ed78c2e+185118]
+	GetHandleVerifier [0x0x7ff65ed8053f+216111]
+	GetHandleVerifier [0x0x7ff65ed672d4+113092]
+	GetHandleVerifier [0x0x7ff65ed67489+113529]
+	GetHandleVerifier [0x0x7ff65ed4e288+10616]
+	BaseThreadInitThunk [0x0x7ffb4d61e8d7+23]
+	RtlUserThreadStart [0x0x7ffb4ec2c48c+44]
+
+2026-02-11 22:40:15,101 - ERROR - Worker_650_50: 问卷处理失败 - Message: session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 144.0.7559.133 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff65ed5e925+77845]
+	GetHandleVerifier [0x0x7ff65ed5e980+77936]
+	(No symbol) [0x0x7ff65eb19cda]
+	(No symbol) [0x0x7ff65eb5e53f]
+	(No symbol) [0x0x7ff65eb5d58b]
+	(No symbol) [0x0x7ff65eb56d7d]
+	(No symbol) [0x0x7ff65eb529e5]
+	(No symbol) [0x0x7ff65eba62ce]
+	(No symbol) [0x0x7ff65eba5a60]
+	(No symbol) [0x0x7ff65eb986a3]
+	(No symbol) [0x0x7ff65eb61791]
+	(No symbol) [0x0x7ff65eb62523]
+	GetHandleVerifier [0x0x7ff65f03683d+3059501]
+	GetHandleVerifier [0x0x7ff65f030bfd+3035885]
+	GetHandleVerifier [0x0x7ff65f0503f0+3164896]
+	GetHandleVerifier [0x0x7ff65ed78c2e+185118]
+	GetHandleVerifier [0x0x7ff65ed8053f+216111]
+	GetHandleVerifier [0x0x7ff65ed672d4+113092]
+	GetHandleVerifier [0x0x7ff65ed67489+113529]
+	GetHandleVerifier [0x0x7ff65ed4e288+10616]
+	BaseThreadInitThunk [0x0x7ffb4d61e8d7+23]
+	RtlUserThreadStart [0x0x7ffb4ec2c48c+44]
+
+2026-02-11 22:40:15,103 - CRITICAL - 失败次数过多，程序将强制停止，请检查代码是否正确
+2026-02-11 22:40:15,700 - INFO - 问卷填写任务完成
+2026-02-11 22:46:39,238 - INFO - 启动 2 个工作线程
+2026-02-11 22:46:39,238 - INFO - ====== WebDriver manager ======
+2026-02-11 22:46:39,238 - INFO - ====== WebDriver manager ======
+2026-02-11 22:46:40,279 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:46:40,279 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:46:40,807 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:46:40,813 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:46:42,811 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:46:42,817 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:46:44,818 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:46:44,820 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:46:44,826 - CRITICAL - 失败次数过多，程序将强制停止，请检查代码是否正确
+2026-02-11 22:46:45,241 - INFO - 问卷填写任务完成
+2026-02-11 22:53:54,240 - INFO - 启动 2 个工作线程
+2026-02-11 22:53:54,240 - INFO - ====== WebDriver manager ======
+2026-02-11 22:53:54,240 - INFO - ====== WebDriver manager ======
+2026-02-11 22:53:55,347 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:53:55,347 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:53:55,907 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:53:55,917 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:53:57,912 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:53:57,920 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:53:59,915 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:53:59,923 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:53:59,924 - CRITICAL - 失败次数过多，程序将强制停止，请检查代码是否正确
+2026-02-11 22:54:00,242 - INFO - 问卷填写任务完成
+2026-02-11 22:59:42,192 - INFO - ====== WebDriver manager ======
+2026-02-11 22:59:42,194 - INFO - 启动 2 个工作线程
+2026-02-11 22:59:42,194 - INFO - ====== WebDriver manager ======
+2026-02-11 22:59:43,301 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:59:43,326 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 22:59:43,894 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:59:43,919 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:59:45,898 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:59:45,923 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:59:47,900 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:59:47,925 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 22:59:47,927 - CRITICAL - 失败次数过多，程序将强制停止，请检查代码是否正确
+2026-02-11 22:59:48,197 - INFO - 问卷填写任务完成
+2026-02-11 23:03:58,242 - INFO - ====== WebDriver manager ======
+2026-02-11 23:03:58,242 - INFO - 启动 2 个工作线程
+2026-02-11 23:03:58,242 - INFO - ====== WebDriver manager ======
+2026-02-11 23:03:59,366 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 23:03:59,377 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 23:03:59,846 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:04:01,849 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:04:03,854 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:04:05,858 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:04:07,860 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:04:09,864 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:04:10,249 - CRITICAL - 失败次数过多(6次)，程序将强制停止，请检查代码是否正确
+2026-02-11 23:04:10,249 - INFO - 正在停止问卷填写...
+2026-02-11 23:04:10,249 - INFO - 问卷填写任务完成
+2026-02-11 23:04:14,852 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:11:19,421 - INFO - 启动 2 个工作线程
+2026-02-11 23:11:19,421 - INFO - ====== WebDriver manager ======
+2026-02-11 23:11:19,421 - INFO - ====== WebDriver manager ======
+2026-02-11 23:11:20,553 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 23:11:20,553 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 23:11:21,069 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:11:21,071 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:11:23,072 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:11:23,077 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:11:25,081 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:11:25,086 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:11:25,425 - CRITICAL - 失败次数过多(6次)，程序将强制停止，请检查代码是否正确
+2026-02-11 23:11:25,426 - INFO - 正在停止问卷填写...
+2026-02-11 23:11:25,426 - INFO - 问卷填写任务完成
+2026-02-11 23:13:57,393 - INFO - 启动 2 个工作线程
+2026-02-11 23:13:57,394 - INFO - ====== WebDriver manager ======
+2026-02-11 23:13:57,394 - INFO - ====== WebDriver manager ======
+2026-02-11 23:13:58,538 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 23:13:58,538 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 23:13:59,286 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:13:59,286 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:14:01,298 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:14:01,298 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:14:03,307 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:14:03,307 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:14:03,397 - CRITICAL - 失败次数过多(6次)，程序将强制停止，请检查代码是否正确
+2026-02-11 23:14:03,397 - INFO - 正在停止问卷填写...
+2026-02-11 23:14:03,397 - INFO - 问卷填写任务完成
+2026-02-11 23:20:31,088 - INFO - 启动 2 个工作线程
+2026-02-11 23:20:31,088 - INFO - ====== WebDriver manager ======
+2026-02-11 23:20:31,088 - INFO - ====== WebDriver manager ======
+2026-02-11 23:20:32,129 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 23:20:32,129 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-11 23:20:32,643 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:20:32,647 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:20:34,646 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:20:34,648 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:20:36,648 - ERROR - Worker_650_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:20:36,650 - ERROR - Worker_50_50: 问卷处理失败 - Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-02-11 23:20:37,095 - CRITICAL - 失败次数过多(6次)，程序将强制停止，请检查代码是否正确
+2026-02-11 23:20:37,095 - INFO - 正在停止问卷填写...
+2026-02-11 23:20:37,095 - INFO - 问卷填写任务完成

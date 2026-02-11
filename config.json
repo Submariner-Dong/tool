@@ -1,0 +1,11 @@
+{
+  "max_count": 6,
+  "proxy_enabled": false,
+  "window_count": 2,
+  "browser_width": 550,
+  "browser_height": 650,
+  "fail_threshold": 6,
+  "skip_threshold": 6,
+  "headless_mode": true,
+  "proxy_url": ""
+}
